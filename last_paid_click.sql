@@ -64,4 +64,4 @@ order by
     lpc.utm_source asc,
     lpc.utm_medium asc,
     lpc.utm_campaign asc
-limit 10
+limit 10;
